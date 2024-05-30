@@ -5,7 +5,10 @@ sdvsdvsdv
 
 sdv
 sdfgnfg
+<<<<<<< HEAD
 sdvviojiwjej
 owijjewe
 wopej
 piojew
+=======
+>>>>>>> 4ff5fded70e100fa215ea68c9c81ff3379d7e4e9
